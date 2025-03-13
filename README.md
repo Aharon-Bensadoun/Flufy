@@ -1,6 +1,8 @@
 # Ollama Chat
 
 A beautiful chat interface for interacting with Ollama's API. Built with React, TypeScript, and Material-UI.
+![Ollama](https://github.com/user-attachments/assets/3f59eaf2-0e88-4226-92e8-9d2773374560)
+
 
 ## Features
 
