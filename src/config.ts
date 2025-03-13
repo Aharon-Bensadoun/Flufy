@@ -18,7 +18,7 @@ interface Config {
 
 const config: Config = {
   api: {
-    baseUrl: 'https://ai.dom.hadassah.org.il',
+    baseUrl: 'https://yourapiurl',
     endpoints: {
       chat: '/api/chat',
       models: '/api/tags',
